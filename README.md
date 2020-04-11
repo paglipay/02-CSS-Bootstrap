@@ -1,6 +1,6 @@
 # 02-CSS-Bootstrap
 
-This is assignment number 2 for the UCLA Extension Full Stack Development Course 2020 by Paul Aglipay.
+This is assignment #2 for the UCLA Extension - Full Stack Development Course 2020 by Paul Aglipay.
 
 ## Usage
 
